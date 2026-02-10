@@ -1,4 +1,5 @@
 # DATA_GENERATION_USING_MODELLING_AND_SIMULATION
+
 ## Overview
 This project generates simulation-based data using **SimPy**, a Python discrete-event simulation library. The generated dataset is used to evaluate and compare multiple Machine Learning regression models.
 
@@ -26,11 +27,9 @@ Note- you can use any simulation library.
 - Support Vector Regressor (SVR)
 
 ## Installation
+`pip install simpy pandas scikit-learn numpy matplotlib`
 
-```bash
-pip install simpy pandas scikit-learn numpy matplotlib
-
-## Output
+## Output 
 - Model results
 <img width="306" height="99" alt="image" src="https://github.com/user-attachments/assets/1f0ad01e-fe95-48e2-89d3-60d9c6c604e4" />
 - Graph
