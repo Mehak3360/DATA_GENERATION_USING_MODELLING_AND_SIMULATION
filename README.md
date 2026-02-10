@@ -31,8 +31,12 @@ Note- you can use any simulation library.
 
 ## Output 
 - Model results
+  
 <img width="306" height="99" alt="image" src="https://github.com/user-attachments/assets/1f0ad01e-fe95-48e2-89d3-60d9c6c604e4" />
+
+
 - Graph
+  
 <img width="436" height="411" alt="image" src="https://github.com/user-attachments/assets/ba46736c-891f-4668-8cf8-626bf34b1b45" />
 
 
