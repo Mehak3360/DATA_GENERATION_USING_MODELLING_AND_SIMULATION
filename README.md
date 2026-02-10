@@ -11,14 +11,6 @@ Note- you can use any simulation library.
 - Apply multiple Machine Learning regression models  
 - Compare model performance using evaluation metrics  
 
-## Parameters Used
-
-| Parameter | Description | Range |
-|------------|----------------|-------------|
-| Arrival Rate | Time interval between patients | 1 – 10 |
-| Service Time | Treatment time per patient | 2 – 15 |
-| Number of Servers | Number of doctors available | 1 – 5 |
-
 ## Machine Learning Models
 - Linear Regression  
 - K-Nearest Neighbors (KNN)  
